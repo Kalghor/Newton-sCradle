@@ -72,16 +72,16 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <ExternalIncludePath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glad\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glm-0.9.9.7\glm\glm;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glew-2.1.0-win32\glew-2.1.0\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\include\GLFW;$(ExternalIncludePath)</ExternalIncludePath>
-    <LibraryPath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glew-2.1.0-win32\glew-2.1.0\lib\Release\x64;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\lib-vc2022;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glad\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glm-0.9.9.7\glm\glm;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glew-2.1.0-win32\glew-2.1.0\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\include\GLFW;$(ExternalIncludePath)</ExternalIncludePath>
+    <LibraryPath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glew-2.1.0-win32\glew-2.1.0\lib\Release\x64;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\lib-vc2022;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <ExternalIncludePath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glad\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glm-0.9.9.7\glm\glm;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glew-2.1.0-win32\glew-2.1.0\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\include\GLFW;$(ExternalIncludePath)</ExternalIncludePath>
-    <LibraryPath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glew-2.1.0-win32\glew-2.1.0\lib\Release\x64;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\KulkiNewtona\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\lib-vc2022;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glad\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glm-0.9.9.7\glm\glm;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glew-2.1.0-win32\glew-2.1.0\include;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\include\GLFW;$(ExternalIncludePath)</ExternalIncludePath>
+    <LibraryPath>C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glew-2.1.0-win32\glew-2.1.0\lib\Release\x64;C:\Users\Pawel\Desktop\PŚK\Projekty\Pawiński\Newton-sCradle\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\lib-vc2022;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>

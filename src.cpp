@@ -9,7 +9,7 @@ int main() {
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 5);
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
-	GLFWwindow* window = glfwCreateWindow(WIN_SZ_X, WIN_SZ_Y, "Kulki Newtona", nullptr, nullptr);
+	GLFWwindow* window = glfwCreateWindow(WIN_SZ_X, WIN_SZ_Y, "Falujaca woda", nullptr, nullptr);
 	if (!window)
 		return 1;
 
