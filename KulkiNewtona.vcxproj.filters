@@ -22,4 +22,12 @@
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="vs.vert">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="fs.frag">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+  </ItemGroup>
 </Project>
